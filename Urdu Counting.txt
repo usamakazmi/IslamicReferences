@@ -1,0 +1,200 @@
+http://www.sf.airnet.ne.jp/ts/language/number/hindi.html
+
+A Playground of Thoughts > Number Systems of the World > The Number System of Hindi
+
+The Number System of Hindi
+This page is based on Hindi/Urdu conversation lessons on the Web at Syracuse University and Tsukaeru Urdu & Hindi (written in Japanese).
+
+The Hindi number system is basically decimal, but because of a lot of irregular pronunciation, you have to memorize 100 different words as if it were a centesimal system.
+
+Number	Reading	Meaning
+0	shoonya	0
+1	ek	1
+2	do	2
+3	teen	3
+4	chaar	4
+5	paanch	5
+6	chhuh	6
+7	saat	7
+8	aath	8
+9	nau	9
+10	dus	10
+11	gyaaruh	11
+12	baaruh	12
+13	tayruh	13
+14	chauduh	14
+15	pundrah	15
+16	soluh	16
+17	sattruh	17
+18	utthaaruh	18
+19	unnees	19
+20	bees	20
+21	ikkees	21
+22	baaees	22
+23	tayees	23
+24	chaubees	24
+25	pucchees	25
+26	chhubbees	26
+27	suttaaees	27
+28	utthaaees	28
+29	unatees	29
+30	tees	30
+31	ikattees	31
+32	buttees	32
+33	tayntees	33
+34	chauntees	34
+35	payntees	35
+36	chhuttees	36
+37	sayntees	37
+38	urdtees	38
+39	unataalees	39
+40	chaalees	40
+41	ikataalees	41
+42	buyaalees	42
+43	tayntaalees	43
+44	chauwaalees	44
+45	payntaalees	45
+46	chhiyaatees	46
+47	sayntaalees	47
+48	urdtaalees	48
+49	unachaas	49
+50	puchaass	50
+51	ikyaawaun	51
+52	baawun	52
+53	tirpun	53
+54	chauwun	54
+55	puchpun	55
+56	chhuppun	56
+57	suttaawun	57
+58	utthhaawun	58
+59	unasuth	59
+60	saath	60
+61	ikasuth	61
+62	baasuth	62
+63	tirsuth	63
+64	chaunsuth	64
+65	paynsuth	65
+66	chhiyaasuth	66
+67	sursuth	67
+68	urdsuth	68
+69	unahuttur	69
+70	suttur	70
+71	ikahuttur	71
+72	buhuttur	72
+73	tihuttur	73
+74	chahuttur	74
+75	puchahuttur	75
+76	chhihuttur	76
+77	sutahuttur	77
+78	uthahuttur	78
+79	unyaasee	79
+80	ussee	80
+81	ikyaasee	81
+82	buyaasee	82
+83	tiraasee	83
+84	chauraasee	84
+85	puchaasee	85
+86	chhiyaasee	86
+87	suttaasee	87
+88	utthaasee	88
+89	nuwaasee	89
+90	nubbay	90
+91	ikyaanaway	91
+92	baanaway	92
+93	tiraanaway	93
+94	chauraanaway	94
+95	puchaanaway	95
+96	chhiyaanaway	96
+97	suttaanaway	97
+98	utthhaanaway	98
+99	ninyaanaway	99
+100	sau	100
+
+Chart:
+-1	0	1	2	3	4	5	6	7	8	9
+0		shoonya	ek	do	teen	chaar	paanch	chhuh	saat	aath	nau
+10		dus	gyaaruh	baaruh	tayruh	chauduh	pundrah	soluh	sattruh	utthaaruh
+20	unnees	bees	ikkees	baaees	tayees	chaubees	pucchees	chhubbees	suttaaees	utthaaees
+30	unatees	tees	ikattees	buttees	tayntees	chauntees	payntees	chhuttees	sayntees	urdtees
+40	unataalees	chaalees	ikataalees	buyaalees	tayntaalees	chauwaalees	payntaalees	chhiyaatees	sayntaalees	urdtaalees
+50	unachaas	puchaass	ikyaawaun	baawun	tirpun	chauwun	puchpun	chhuppun	suttaawun	utthhaawun
+60	unasuth	saath	ikasuth	baasuth	tirsuth	chaunsuth	paynsuth	chhiyaasuth	sursuth	urdsuth
+70	unahuttur	suttur	ikahuttur	buhuttur	tihuttur	chahuttur	puchahuttur	chhihuttur	sutahuttur	uthahuttur
+80	unyaasee	ussee	ikyaasee	buyaasee	tiraasee	chauraasee	puchaasee	chhiyaasee	suttaasee	utthaasee	nuwaasee
+90		nubbay	ikyaanaway	baanaway	tiraanaway	chauraanaway	puchaanaway	chhiyaanaway	suttaanaway	utthhaanaway	ninyaanaway
+
+Note:
+Number	Reading	Meaning
+100	sau	100
+110	sau dus	100 + 10
+120	sau bees	100 + 20
+130	sau tees	100 + 30
+140	sau chaalees	100 + 40
+150	deerh sau	1½ × 100
+160	sau saath	100 + 60
+170	sau suttur	100 + 70
+180	sau ussee	100 + 80
+190	sau nubbay	100 + 90
+200	do sau	2 × 100
+250	dhai sau	2½ × 100
+300	teen sau	3 × 100
+350	sarhee teen sau	(½ + 3) × 100
+400	chaar sau	4 × 100
+450	sarhee chaar sau	(½ + 4) × 100
+500	paanch sau	5 × 100
+1000	ek hazar	1 × 1000
+1500	pundrah sau	15 × 100
+1550	sarhee pundrah sau	(½ + 15) × 100
+10000	dus hazar	10 × 1000
+100000	ek lakh	1 × 100000
+1000000	dus lakh	10 × 100000
+10000000	ek karor	1 × 10000000
+100000000	dus karor	10 × 10000000
+
+The number 123456789 is read as follows:
+
+baaruh		karor		chauntees		lakh		chhuppun		hazar		saat		sau		nuwaasee
+12	×	10000000	+	34	×	100000	+	56	×	1000	+	7	×	100	+	89
+
+Indo-European (425)
+Albanian (4)
+Armenian (2)
+Baltic (2)
+Celtic (7)
+Germanic (37)
+Greek (6)
+Indo-Iranian (302)
+Indo-Aryan (219)
+Central zone (68)
+Bhil (16)
+Dom (1)
+Gujarati (7)
+Khandesi (2)
+Panjabi (2)
+Rajasthani (14)
+Romani (7)
+Unclassified (7)
+Western Hindi (11)
+Bundeli (2)
+Hindustani (2)
+HINDI
+URDU
+Unclassified (7)
+DOMAAKI
+East Central zone (7)
+Eastern zone (47)
+Northern zone (18)
+Northwestern zone (39)
+Nuristani (6)
+Sinhalese-Maldivian (3)
+Southern zone (16)
+Unclassified (13)
+SANSKRIT
+Iranian (81)
+Unclassified (2)
+Italic (47)
+Slavic (18)
+
+Return to the index
+
+Copyright(C) TAKASUGI Shinji (ts@sf.airnet.ne.jp)
